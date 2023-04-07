@@ -15,6 +15,16 @@ export default function App() {
           </div>
         </div>
       </div>
+      <p>
+        <a
+          href="https://github.com/zaicampo/weather-react-2nd"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open Source Code
+        </a>
+        by Zaira Campo
+      </p>
     </div>
   );
 }
