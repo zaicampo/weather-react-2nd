@@ -15,15 +15,15 @@ export default function App() {
           </div>
         </div>
       </div>
-      <p>
+      <p className="gitHub-link">
         <a
           href="https://github.com/zaicampo/weather-react-2nd"
           target="_blank"
           rel="noreferrer"
         >
           Open Source Code
-        </a>
-        by Zaira Campo
+        </a>{" "}
+        <span>by Zaira Campo</span>
       </p>
     </div>
   );
